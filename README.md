@@ -34,28 +34,25 @@
 
 ## 👤 About Me
 
-Hi, I'm **Atharv Doiphode**, a passionate **Full Stack Developer**, **UI/UX Designer**, and **AI/ML Enthusiast** from Pune, India 🇮🇳
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-I enjoy building modern, scalable, and user-centric digital experiences — from designing intuitive interfaces to developing robust full-stack applications and exploring intelligent AI solutions.
+Hi there! I'm **Atharv Doiphode** 👋
 
-<br>
+A passionate **Full Stack Developer**, **UI/UX Designer**, and **AI/ML Enthusiast** based in **Pune, India** 🇮🇳
 
-| | |
-|---|---|
-| 💻 **Building** production-ready web applications with modern technologies | 🌱 **Learning** System Design, Cloud Technologies & Software Architecture |
-| 🎨 **Designing** clean, responsive, and user-focused interfaces | 🤖 **Exploring** AI/ML solutions for real-world problems |
-| 🚀 **Writing** clean, scalable, and maintainable code | 🤝 **Open** to innovative projects & open-source contributions |
+I thrive at the intersection of engineering and design — building modern, scalable, and user-centric digital products that are as beautiful as they are functional. Whether it's crafting pixel-perfect interfaces, architecting reliable backend systems, or experimenting with AI-powered solutions, I bring the same energy and attention to detail to everything I build.
 
 <br>
 
-```json
-{
-  "location"  : "Pune, India 🇮🇳",
-  "status"    : "Open to collaborate on innovative projects 🤝",
-  "mission"   : "Turning ideas into impactful digital experiences",
-  "interests" : ["System Design", "Cloud Architecture", "Open Source", "AI/ML"]
-}
-```
+- 💻 &nbsp; Building **production-ready** web applications with modern tech stacks
+- 🎨 &nbsp; Designing **clean, responsive**, and user-focused interfaces
+- 🤖 &nbsp; Exploring **AI/ML** to build intelligent, real-world solutions
+- 🚀 &nbsp; Writing **clean, scalable**, and maintainable code
+- 🌱 &nbsp; Currently diving deeper into **System Design**, **Cloud Architecture** & **DevOps**
+- 🤝 &nbsp; Open to collaborating on **innovative projects** and **open-source** contributions
+- 📍 &nbsp; Based in **Pune, India** · Available for remote work worldwide
+
+<br clear="right"/>
 
 ---
 
