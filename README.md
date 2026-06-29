@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/atharv-doiphode-07045125a/">
+  <a href="[https://www.linkedin.com/in/atharv-doiphode-07045125a](https://linkedin.com/in/atharv-doiphode-07045125a)/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
